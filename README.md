@@ -1,3 +1,3 @@
 # acessibility
 
-  <img src="Capturar.png" width="300px" alt="">
+  <img src="Capturar.PNG" alt="">
